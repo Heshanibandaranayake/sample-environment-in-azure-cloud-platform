@@ -1,0 +1,1 @@
+# sample-environment-in-azure-cloud-platform
